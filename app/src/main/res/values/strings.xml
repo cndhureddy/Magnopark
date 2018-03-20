@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, BasicService!</string>
+    <string name="app_name">Service</string>
+    <string name="service">Start REC</string>
+    <string name="cancel">Stop REC</string>
+    <string name="lap">Lap Time</string>
+</resources>
